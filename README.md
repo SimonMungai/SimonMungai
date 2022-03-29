@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blags
-- 👀 I’m interested in PHP and Cyber Security
+- 👀 I’m interested in software development and Cyber Security
 - 🌱 I’m currently learning a lot of PHP
 - 💞️ I’m looking to collaborate on PHP projects and some Cyber Security hints
 - 📫 How to reach me ...
