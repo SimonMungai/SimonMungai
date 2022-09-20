@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blags
 - 👀 I’m interested in software development and Cyber Security
-- 🌱 I’m currently learning a lot of PHP
-- 💞️ I’m looking to collaborate on PHP projects and some Cyber Security hints
+- 🌱 I’m currently learning a lot of PHP and ReactJS
+- 💞️ I’m looking to collaborate on PHP, ReactJS and Cyber Security projects
 - 📫 How to reach me ...
 
 <!---
